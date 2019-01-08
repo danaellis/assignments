@@ -1,0 +1,177 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         220
+	Longest value:         7 characters
+	Most common values:    None (56x)
+	                       K000376 (11x)
+	                       K000375 (10x)
+	                       G000565 (9x)
+	                       V000129 (9x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         239
+	Longest value:         33 characters
+	Most common values:    NEW MEMBER ORIENTATION (11x)
+	                       CHIEF ADMIN OFCR OF THE HOUSE (10x)
+	                       HON. WILLIAM R. KEATING (10x)
+	                       HON. PAUL A. GOSAR (9x)
+	                       HON. DAVID G. VALADAO (9x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (547x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         9
+	Longest value:         30 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (491x)
+	                       GENERAL EXPENDITURES (31x)
+	                       NEW MEMBERS ORIENTATION (11x)
+	                       WOUNDED WARRIOR EXPENSES (6x)
+	                       ADMIN AND OPS (4x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    TRAVEL (547x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         65
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-03-27 (18x)
+	                       2017-03-30 (16x)
+	                       2017-03-28 (15x)
+	                       2017-02-16 (15x)
+	                       2017-03-07 (15x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (547x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         539
+	Longest value:         8 characters
+	Most common values:    E0489772 (2x)
+	                       E0499400 (2x)
+	                       E0499071 (2x)
+	                       E0497208 (2x)
+	                       E0486914 (2x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         247
+	Longest value:         33 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (238x)
+	                       HON DINA TITUS (8x)
+	                       ABM PARKING SERVICES- STL AIRPORT (4x)
+	                       HON GLENN GROTHMAN (4x)
+	                       CROWN SEDAN AND LIMOUSINE (4x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         138
+	Smallest value:        2006-10-01
+	Largest value:         2017-04-01
+	Most common values:    2016-11-29 (26x)
+	                       2017-01-03 (24x)
+	                       2017-01-18 (17x)
+	                       2017-01-30 (16x)
+	                       2017-01-02 (14x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         130
+	Smallest value:        2012-12-30
+	Largest value:         2017-04-30
+	Most common values:    2017-01-21 (18x)
+	                       2017-01-23 (16x)
+	                       2017-02-27 (15x)
+	                       2017-02-16 (15x)
+	                       2017-01-25 (14x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         18 characters
+	Most common values:    TAXI/PARKING/TOLLS (547x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         491
+	Smallest value:        100.81
+	Largest value:         2,076.26
+	Sum:                   123,634.61
+	Mean:                  226.023
+	Median:                162.71
+	StDev:                 210.431
+	Most common values:    105 (10x)
+	                       250 (7x)
+	                       126 (5x)
+	                       150 (4x)
+	                       108 (4x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2,012
+	Largest value:         2,017
+	Sum:                   1,103,089
+	Mean:                  2,016.616
+	Median:                2,017
+	StDev:                 0.527
+	Most common values:    2,017 (342x)
+	                       2,016 (203x)
+	                       2,012 (1x)
+	                       2,015 (1x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         247
+	Longest value:         33 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (238x)
+	                       HON DINA TITUS (8x)
+	                       ABM PARKING SERVICES- STL AIRPORT (4x)
+	                       HON GLENN GROTHMAN (4x)
+	                       CROWN SEDAN AND LIMOUSINE (4x)
+
+Row count: 547

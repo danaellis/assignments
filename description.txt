@@ -1,0 +1,1 @@
+output.csv contains information on House of Representatives expenditures from 2017 Q1 for TAXI/PARKING/TOLLS that are greater than $100. Data is from ProPublica’s House Office Expenditure Data.
