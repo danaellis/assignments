@@ -1,0 +1,44 @@
+[
+  {
+    "name": "eggplant",
+    "color": "purple",
+    "null": [
+      "8"
+    ]
+  },
+  {
+    "name": "tomato",
+    "color": "red",
+    "null": [
+      "6"
+    ]
+  },
+  {
+    "name": "corn",
+    "color": "yellow",
+    "null": [
+      "4"
+    ]
+  },
+  {
+    "name": "okra",
+    "color": "green",
+    "null": [
+      "4"
+    ]
+  },
+  {
+    "name": "arugula",
+    "color": "green",
+    "null": [
+      "7"
+    ]
+  },
+  {
+    "name": "broccoli",
+    "color": "green",
+    "null": [
+      "8"
+    ]
+  }
+]
