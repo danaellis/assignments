@@ -16,3 +16,4 @@ print(vegetables)
 #write vegetables as a JSON file vegetables.json
 with open('vegetables.json', 'w') as f:
     json.dump(vegetables, f, indent=2)
+ 
